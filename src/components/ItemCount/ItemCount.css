@@ -1,0 +1,37 @@
+.Counter {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 4px;
+    text-align: center;
+
+    
+}
+.Button {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 19px;
+    color: #000000;
+    border: none;
+    background-color: #5ee354;
+    padding: 6px;
+    border-radius: 15px;
+    margin: 3px;
+
+}
+.Number {
+    cursor:pointer;
+    font-weight:bold;
+    font-size: 11px;
+    text-align: center;
+    color: #000000;
+    border: none;
+    
+}
+.Controls {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 11px;
+    color: #000000;
+    border: none;
+
+}
